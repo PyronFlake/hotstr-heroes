@@ -19,7 +19,7 @@ SEVÝYE_BAÞI_MANA_TAZELEME=0.098
 HAREKET_HIZI=4.3984
 PORTRE_ADRESÝ=http://www.heroesofthestormtr.com/wp-content/themes/Heroes/heroes-docs/images/heroes/LOGO_diablo.jpg
 VÝDEO_KODU=https://www.youtube.com/embed/s9SaqmxungE
-ÖZGEÇMÝÞ=Diablo, "Terörün Efendisi", Diablo evrenine ait bir Warrior kahramandýr. Antik dil de "Al'Diabolos" olarak bilinen, Terörün Baþ Þeytaný olan Diablo, Kutsal Mabet (Sanctuary) adlý Dünyayý, kendi Cehennemi adýna almak için uðraþmaktadýr. Kurbanlarý sayýsýz, planlarý bilinemez ve cinsiyeti ise bir kadýndýr. (Heroes of The Storm oyunu için kullanýlan Diablo modeli, Diablo 2 oyununa ait "erkeksi" bir modeldir. Fakat, Diablo 3 oyunu ile birlikte þuan ki mevcut Diablo modeli -senaryo ya göre- bir "diþi" olmuþtur.)
+ÖZGEÇMÝÞ=Diablo "Terörün Efendisi", Diablo evrenine ait bir Warrior kahramandýr. Antik dil de "Al'Diabolos" olarak bilinen, Terörün Baþ Þeytaný olan Diablo, Kutsal Mabet (Sanctuary) adlý Dünyayý, kendi Cehennemi adýna almak için uðraþmaktadýr. Kurbanlarý sayýsýz, planlarý bilinemez ve cinsiyeti ise bir kadýndýr. (Heroes of The Storm oyunu için kullanýlan Diablo modeli, Diablo 2 oyununa ait "erkeksi" bir modeldir. Fakat, Diablo 3 oyunu ile birlikte þuan ki mevcut Diablo modeli -senaryo ya göre- bir "diþi" olmuþtur.)
 [YETENEKLER]
 YETENEK_ADI_1=Karanlýk Saldýrý (Q)
 HEDEF_1=Düþman Birimleri
@@ -27,7 +27,7 @@ DOLUM_SURESI_1=12
 MANA_1=60
 IKON_ADRESI_1=http://www.heroesofthestormtr.com/wp-content/themes/Heroes/heroes-docs/images/skills/diablo/1.jpg
 YETENEK_GORUNTU_1=http://www.heroesofthestormtr.com/wp-content/themes/Heroes/heroes-docs/images/screenshot/diablo/1.jpg
-YETENEK_ACIKLAMA_1=Hedeflenen düþmana aðýr bir saldýrý da bulunur. Bu saldýrý, 46 (54 + 8 seviye baþýna) hasar verir ve 0.5 saniye Afallatýr (Stun). Eðer düþman bir yapýya çarpar ise Afallama süresi 0.75 olur.
+YETENEK_ACIKLAMA_1=Hedeflenen düþmana aðýr bir saldýrý da bulunur. Bu saldýrý, 46 (+8 seviye baþýna) hasar verir ve 0.5 saniye Sersemletir (Stun). Eðer düþman bir yapýya çarpar ise Sersemletme süresi 0.75 olur.
 YETENEK_ADI_2=Alev Dalgasý (W)
 HEDEF_2=Belirlenen Yer
 DOLUM_SURESI_2=6
