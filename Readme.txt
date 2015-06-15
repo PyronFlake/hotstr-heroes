@@ -1,4 +1,4 @@
-Heroes of The Storm Turkey™ "Heroes" Section Turkish Localisation
+Heroes of The Storm™ Turkey "Heroes" Section Turkish Localisation
 http://heroesofthestormtr.com/kahraman/
 
 Using Github for fix and share the issues. It's very easy way.
